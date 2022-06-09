@@ -14,8 +14,6 @@ for ( let i = 0; i < 6; i++ ) {
     userNumber = parseInt(prompt('Dammi un numero'))
     if (userNumber % 2 != 0) {
         numbers.push(userNumber)
-    } else {
-
     }
 }
 
